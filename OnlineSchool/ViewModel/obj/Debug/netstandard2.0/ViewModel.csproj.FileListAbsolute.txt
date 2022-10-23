@@ -1,0 +1,8 @@
+D:\DotNetProject\Online School\Backend (.NET CORE API)\OnlineSchool\ViewModel\bin\Debug\netstandard2.0\ViewModel.deps.json
+D:\DotNetProject\Online School\Backend (.NET CORE API)\OnlineSchool\ViewModel\bin\Debug\netstandard2.0\ViewModel.dll
+D:\DotNetProject\Online School\Backend (.NET CORE API)\OnlineSchool\ViewModel\bin\Debug\netstandard2.0\ViewModel.pdb
+D:\DotNetProject\Online School\Backend (.NET CORE API)\OnlineSchool\ViewModel\obj\Debug\netstandard2.0\ViewModel.csprojAssemblyReference.cache
+D:\DotNetProject\Online School\Backend (.NET CORE API)\OnlineSchool\ViewModel\obj\Debug\netstandard2.0\ViewModel.AssemblyInfoInputs.cache
+D:\DotNetProject\Online School\Backend (.NET CORE API)\OnlineSchool\ViewModel\obj\Debug\netstandard2.0\ViewModel.AssemblyInfo.cs
+D:\DotNetProject\Online School\Backend (.NET CORE API)\OnlineSchool\ViewModel\obj\Debug\netstandard2.0\ViewModel.dll
+D:\DotNetProject\Online School\Backend (.NET CORE API)\OnlineSchool\ViewModel\obj\Debug\netstandard2.0\ViewModel.pdb

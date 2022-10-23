@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\OnlineSchool",
+    "\\OnlineSchool\\OnlineSchool",
+    "\\OnlineSchool\\OnlineSchool\\Migrations",
+    "\\OnlineSchool\\OnlineSchool\\Models",
+    "\\OnlineSchool\\ViewModel",
+    "\\OnlineSchool\\WebApiDocumentation",
+    "\\OnlineSchool\\WebApiDocumentation\\Controllers",
+    "\\OnlineSchool\\WebApiDocumentation\\Views",
+    "\\OnlineSchool\\WebApiDocumentation\\Views\\Shared"
+  ],
+  "PreviewInSolutionExplorer": false
+}

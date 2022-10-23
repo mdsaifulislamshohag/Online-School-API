@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OnlineSchool</name>
+    </assembly>
+    <members>
+        <member name="M:OnlineSchool.Controllers.AdminController.Registration(ViewModel.AdminRegistrationViewModel)">
+            <summary>
+             (Admin Registration with One Image Upload)
+            </summary>
+            <param name="admin"></param>
+            <returns></returns>
+        </member>
+        <member name="M:OnlineSchool.Controllers.AdminController.UnHideVideo(System.Int32)">
+            <summary>
+             (The Tutorial Video will be unhided on the basis of Tutorial ID)
+            </summary>
+            <param name="TID"></param>
+            <returns></returns>
+        </member>
+        <member name="P:OnlineSchool.Controllers.Tutorial_Details.Like_Ratio">
+            (Like + DisLike)
+        </member>
+        <member name="T:OnlineSchool.Controllers.CreateTokenController">
+             [ApiController]
+        </member>
+        <member name="T:OnlineSchool.Controllers.HomeController">
+             [ApiController]
+        </member>
+        <member name="M:OnlineSchool.Controllers.HomeController.Courses">
+            <summary>
+            (Gets All The Courses Added by the Adminstration)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:OnlineSchool.Controllers.HomeController.Tutorials(System.Int32)">
+            <summary>
+            (Gets All The Tutorials Under a Specific Course ID)
+            </summary>
+            <param name="CID">1</param>
+            <returns>Tutorial</returns>
+        </member>
+        <member name="T:OnlineSchool.Controllers.StudentController">
+            [ApiController]
+        </member>
+    </members>
+</doc>
